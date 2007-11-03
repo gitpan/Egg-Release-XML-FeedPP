@@ -2,12 +2,12 @@ package Egg::Release::XML::FeedPP;
 #
 # Masatoshi Mizuno E<lt>lusheE<64>cpan.orgE<gt>
 #
-# $Id: FeedPP.pm 187 2007-08-07 19:00:30Z lushe $
+# $Id: FeedPP.pm 211 2007-11-03 14:41:11Z lushe $
 #
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 

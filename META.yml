@@ -1,6 +1,6 @@
 ---
 name: Egg-Release-XML-FeedPP
-version: 0.01
+version: 0.02
 author:
   - 'Masatoshi Mizuno E<lt>lusheE<64>cpan.orgE<gt>'
 abstract: XML::FeedPP module kit for Egg.
@@ -21,7 +21,7 @@ provides:
     version: 0.01
   Egg::Release::XML::FeedPP:
     file: lib/Egg/Release/XML/FeedPP.pm
-    version: 0.01
+    version: 0.02
   Egg::View::FeedPP:
     file: lib/Egg/View/FeedPP.pm
     version: 0.01
